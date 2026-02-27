@@ -20,7 +20,7 @@ export const Header = ({ onShare, onComments, onPresent }: HeaderProps) => {
             <div className="flex items-center">
               <input 
                 type="text" 
-                defaultValue="Google Practice Presentation" 
+                defaultValue="Yoogle Practice Presentation" 
                 className="text-[16px] font-medium text-[#444] border border-transparent hover:border-[#d9d9d9] px-1 rounded-sm focus:outline-none focus:border-[#4d90fe] w-64 truncate"
               />
               <span className="text-[#888] text-[14px] ml-2 cursor-pointer hover:text-[#444]">☆</span>

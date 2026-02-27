@@ -639,7 +639,7 @@ export default function App() {
                       <input 
                         type="text" 
                         readOnly 
-                        value="https://docs.google.com/presentation/d/123456789/edit" 
+                        value="https://docs.yoogle.com/presentation/d/123456789/edit" 
                         className="flex-1 border border-[#d9d9d9] px-2 py-1 text-sm bg-[#f5f5f5] text-[#444]"
                       />
                   </div>
